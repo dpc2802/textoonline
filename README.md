@@ -28,14 +28,24 @@
 
 Además de las herramientas, [Texto En Línea](https://textoenlinea.com) ofrece una biblioteca con más de **90 artículos** sobre:
 
+- 🗣️ **Comunicación:** Elementos de la comunicación, emisor, receptor, mensaje, canal, verbal y no verbal.
 - 📝 **Redacción Académica:** Cómo hacer un ensayo, introducción, conclusión, resumen y más.
 - 📖 **Gramática y Ortografía:** Sustantivos, adjetivos, verbos, signos de puntuación, conectores textuales.
 - 🎭 **Literatura:** Géneros literarios, novela, cuento, fábula, mito, leyenda y sus tipos.
 - 📐 **Normas APA:** Guía completa de la 7ma edición con generador de citas integrado.
 - 🗺️ **Organización Visual:** Mapas mentales, mapas conceptuales y técnicas de estudio.
 
-### Artículos Destacados
+### 🌟 Artículos Destacados
 
+#### Clúster de Comunicación
+- [Los 8 Elementos de la Comunicación](https://textoenlinea.com/articulos/elementos-de-la-comunicacion/) — Análisis detallado del circuito comunicativo moderno.
+- [Comunicación Verbal y No Verbal](https://textoenlinea.com/articulos/comunicacion-verbal-y-no-verbal/) — Kinésica, proxémica y el mito del lenguaje corporal.
+- [Comunicación Oral y Escrita](https://textoenlinea.com/articulos/comunicacion-oral-y-escrita/) — Diferencias cognitivas y usos estratégicos.
+- [Qué es el Emisor](https://textoenlinea.com/articulos/que-es-el-emisor/) y [Qué es el Receptor](https://textoenlinea.com/articulos/que-es-el-receptor/) — Los actores fundamentales del mensaje.
+- [El Mensaje y el Canal](https://textoenlinea.com/articulos/mensaje-y-canal/) — La teoría de McLuhan y la simbiosis del medio.
+- [Qué es la Comunicación](https://textoenlinea.com/articulos/que-es-la-comunicacion/) — La guía pilar sobre la interacción humana.
+
+#### Guías Académicas
 - [Normas APA 7ma Edición (2026)](https://textoenlinea.com/articulos/normas-apa-7ma-edicion/) — Guía actualizada de formato, citas y referencias.
 - [¿Qué es una Frase?](https://textoenlinea.com/articulos/que-es-una-frase/) — Significado, tipos y diferencias con la oración.
 - [Géneros Literarios](https://textoenlinea.com/articulos/generos-literarios/) — Clasificación completa: lírico, épico, dramático y didáctico.
